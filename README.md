@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iroxle
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C# and Phyton.
+- 🌱 I’m currently learning C# and Python.
 - 📫 How to reach me 
 
 <!---
