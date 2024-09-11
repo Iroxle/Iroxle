@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iroxle
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning C# and Python.s
+- 👀 I’m interested in Stocks and Crypto
+- 🌱 I’m currently learning C# and Python
 
 <!---
 Iroxle/Iroxle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
