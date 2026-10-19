@@ -35,8 +35,6 @@
 $Iroxle = [PSCustomObject]@{
     Interests   = @("Automation", "Scripting", "Infrastructure")
     Learning    = @("Infrastructure as Code", "Cloud", "Clean code")
-    Motto       = "If you do it twice, automate it."
-    Coffee      = $true
 }
 ```
 
