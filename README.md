@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:76ccc2&height=180&section=header&text=Hi,%20I'm%20Fabrizio&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20%E2%80%A2%20Automation%20%E2%80%A2%20Always%20learning&descAlignY=58&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:76ccc2&height=180&section=header&text=Hi,%20I'm%20Iroxle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20%E2%80%A2%20Automation%20%E2%80%A2%20Always%20learning&descAlignY=58&descSize=16" alt="Header" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ### 🔭 Currently
 
 ```powershell
-$Fabrizio = [PSCustomObject]@{
+$Iroxle = [PSCustomObject]@{
     Interests   = @("Automation", "Scripting", "Infrastructure")
     Learning    = @("Infrastructure as Code", "Cloud", "Clean code")
     Motto       = "If you do it twice, automate it."
