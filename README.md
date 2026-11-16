@@ -1,13 +1,11 @@
 ## Hi, I'm Fabrizio
 
-IT · Automation · Based in Switzerland
+IT · Automation
 
 ### About me
 
-- Into IT, scripting and automation
 - I like building small tools that make everyday tasks easier
 - Currently learning more about infrastructure and the cloud
-- I speak German (Swiss German) and English
 
 ### Tech stack
 
